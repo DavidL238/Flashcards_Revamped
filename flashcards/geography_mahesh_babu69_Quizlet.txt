@@ -1,0 +1,15 @@
+Jovial planet|1. Gaseous planets consisting of mostly hydrogen and helium (small amounts of other things)(Jupiter, Saturn, Uranus, and Neptune) larger, less dense, long orbital periods, numerous satellites
+Troposphere|It contains about 75% of the earth's atmosphere, It is 8 km over poles and 16 km over equator. It is also called the region of mixing
+stratosphere|Called mother of pearl clouds, Air temperature increases due to absorption of UV rays by ozone
+Mesosphere|It is the coldest layer of the atmosphere. Meteorites burn up in this layer.
+Thermosphere|In this layer temperature increases rapidly due to interaction of ionosphere with the electromagnetic radiation from out space of sun. It extends from mesopause to 640 km
+Terrestial radiation|radiation that bounces back in to space from earth by infrared long wave radiation. These are responsible for green house effect
+Insolation|Amount of solar radiation received by a region of Earth's surface, different parts of the world receive different amounts/concentrations of solar energy. Five factors affecting insolation: time of year/angle of inclination, latitude, angle of incidence/earth's shape, cloud cover/atmospheric dust and albedo
+Factors affecting temperature distribution|1. Insolation: Direct insolation has higher temperature2. Latitude3. Nature of surface: rough surface have lower specific heat that smooth surface.4. Altitude5. Distance from the sea
+Polar easterlies|Prevailing winds that blow from east to west between 60 degrees and 90 degrees latitude in both hemispheres.
+Trade wind or easterlies|The winds that blow from subtropical high pressure belts to equator are called easterlies or trade winds.
+Planetary winds|long-lasting wind patternthat cover a large area of the Earth
+Westerlies|Dominant winds of the mid-latitudes. These winds move from the subtropical highs to the subpolar lows from west to east.
+katabatic wind|Also called gravity drainage winds; they are significant on a larger regional scale than mountain-valley breezes, under certain conditions. They are cold winds flowing downwards because of gravity.
+Anabatic Wind|A wind that is created by air flowing uphill. Valley breezes, produced by local daytime heating, are an example of these winds. The opposite of a katabatic wind.
+Chinook|A warm, dry wind flowing from mountain areas is common in some regions. As this wind generally occurs in winter or spring, it has the beneficial effects of moderating temperatures and melting snow.
